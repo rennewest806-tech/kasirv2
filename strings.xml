@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">KasirKu POS Pro</string>
+    <string name="title_kasir">Kasir &amp; Transaksi</string>
+    <string name="title_inventory">Katalog Produk</string>
+    <string name="title_reports">Laporan Penjualan</string>
+    <string name="title_settings">Pengaturan</string>
+</resources>
